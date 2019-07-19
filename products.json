@@ -1,0 +1,22 @@
+"kids" : {
+	"product_name" : "Baby shampoo",
+	"product_price": "120",
+	"manufacture_date" : "04/09/2018",
+},
+
+"electronic_items" : {
+	"product_name" : "electronic items",
+	"product_price": "100",
+	"manufacture_date" : "04/09/2018",	
+},
+"eBook" : {
+	"product_name" : "Ebook",
+	"product_price": "free",
+	"manufacture_date" : "04/09/2018",
+},
+
+"girls_wear" : {
+	"product_name" : "Girls wearing",
+	"product_price": "200",
+	"manufacture_date" : "04/09/2018",
+}

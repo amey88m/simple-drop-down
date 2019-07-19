@@ -1,0 +1,75 @@
+[
+{"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"proj0"},
+{"type":"table","name":"ebook","database":"proj0","data":
+[
+{"bkid":"1","pname":"php free e book pdf"}
+]
+}
+,{"type":"table","name":"electronics","database":"proj0","data":
+[
+{"eid":"1","pname":"samsung products"},
+{"eid":"2","pname":"sony products"}
+]
+}
+,{"type":"table","name":"girlswear","database":"proj0","data":
+[
+{"gwid":"1","pname":"girls Dress"},
+{"gwid":"2","pname":"girls panties"},
+{"gwid":"3","pname":"Accessories"},
+{"gwid":"4","pname":"girls T-shirts"},
+{"gwid":"5","pname":"girls Tops"}
+]
+}
+,{"type":"table","name":"kids","database":"proj0","data":
+[
+{"kid":"1","pname":"kids powder"},
+{"kid":"2","pname":"kids soap"},
+{"kid":"3","pname":"kids shampoo"}
+]
+}
+,{"type":"table","name":"products","database":"proj0","data":
+[
+{"pro_id":"1","product_name":"Johnson's baby shampoo","product_price":"200.00","product_image":"j&j_baby_shampoo","keywords":"\"kids shampoo\""},
+{"pro_id":"2","product_name":"Johnson's baby soap","product_price":"100.00","product_image":"91hibBZ7","keywords":"'kids soap'"},
+{"pro_id":"4","product_name":"sony-cyber-shot","product_price":"999.00","product_image":"sony-cyber-shot-dsc-wx3501","keywords":"\"sony products\""},
+{"pro_id":"5","product_name":"sony-cyber-shot","product_price":"1110.00","product_image":"sony-cyber-shot-w810","keywords":"\"sony products\""},
+{"pro_id":"6","product_name":"girls dress","product_price":"499.00","product_image":"11461391358805-jaipur-kurti-women-kurtas-219d8kw0028592-2","keywords":"\"Dress | Dress materials\""},
+{"pro_id":"7","product_name":"girls dress - one pice","product_price":"788.00","product_image":"Hot-Sale-Western-Style-Fashion-Women-Plus-Size-Yellow-Sheath-Dresses-Printed-font-b-Design-b","keywords":"\"Dress | Dress materials\""},
+{"pro_id":"8","product_name":"Girls sandal","product_price":"499.00","product_image":"Quanxiu-2015-Causal-Shoes-Summer-Flat-Metal-Plus-Size-Women-Flat-Sandals","keywords":"\"Accessories\""},
+{"pro_id":"9","product_name":"Girls wrist watch -pink","product_price":"999.00","product_image":"girls_watch_AC551","keywords":"\"Accessories\""},
+{"pro_id":"10","product_name":"Girls wrist watch - white","product_price":"1001.00","product_image":"sexy-look-watch-Girls","keywords":"\"Accessories\""},
+{"pro_id":"11","product_name":"Women Flat Sandals - casual shoes","product_price":"598.00","product_image":"Quanxiu-2015-Causal-Shoes-Summer-Flat-Metal-Plus-Size-Women-Flat-Sandals","keywords":"\"Accessories\""},
+{"pro_id":"12","product_name":"girls tshirt ","product_price":"799.00","product_image":"85e2fc6515bbc8bcd5f03346502cb479","keywords":"\"Girls T-shirts | Tops new\", \"Tshirt\""},
+{"pro_id":"13","product_name":"girls top - white","product_price":"455.00","product_image":"2017-New-Fashion-Women-Chiffon-Blouses-Ladies-Tops-Female-Sleeveless-Shirt-Blusas-Femininas-White-Red-Purple","keywords":"\"Girls T-shirts | Tops new\""},
+{"pro_id":"14","product_name":"girls dress","product_price":"1200.00","product_image":"1471664808709339118","keywords":"\"Girls T-shirts | Tops new\""},
+{"pro_id":"15","product_name":"Girls dress inaya festive","product_price":"1499.00","product_image":"Inaya-Festive-Formal-2015 She9 6","keywords":"\"Girls T-shirts | Tops new\""},
+{"pro_id":"16","product_name":"samsung products","product_price":"4500.00","product_image":"samsung_m","keywords":"\"samsung products\""},
+{"pro_id":"17","product_name":"Girls Dress","product_price":"499.00","product_image":"11461391358805-jaipur-kurti-women-kurtas-219d8kw0028592-2","keywords":"\"Girls Dress\""},
+{"pro_id":"18","product_name":"Western style dress","product_price":"789.00","product_image":"Hot-Sale-Western-Style-Fashion-Women-Plus-Size-Yellow-Sheath-Dresses-Printed-font-b-Design-b","keywords":"\"Girls Dress\""},
+{"pro_id":"19","product_name":"php 7 explained","product_price":"1200.00","product_image":"php7_explained_ebook-cover","keywords":"'php free e book pdf'"},
+{"pro_id":"20","product_name":"php 5 complete reference","product_price":"600.00","product_image":"PHP_5","keywords":"'php free e book pdf'"},
+{"pro_id":"21","product_name":"php 5 dumies","product_price":"400.00","product_image":"PHP_5_for_Dummies_eBook","keywords":"\"php free e book pdf\""},
+{"pro_id":"22","product_name":"parker pen ","product_price":"1200.00","product_image":"71yHogEfi7L._SL1500_","keywords":"\"stationary and books\""},
+{"pro_id":"23","product_name":"Berol set ","product_price":"300.00","product_image":"81Ec58rMF5L._SY679_","keywords":"\"stationary and books\""},
+{"pro_id":"24","product_name":"Baby soap (white flavour)","product_price":"100.00","product_image":"71KSPNz045L._SL1500_","keywords":"\"kids soap\""},
+{"pro_id":"25","product_name":"Baby soap (pink flavour)","product_price":"110.00","product_image":"71uRpWfapTL._SX466_","keywords":"\"kids soap\""},
+{"pro_id":"26","product_name":"syskaled","product_price":"200.00","product_image":"31xZaZyjivL._SL500_AC_SS350_","keywords":"'electornic items'"},
+{"pro_id":"27","product_name":"syskaled Lamp","product_price":"120.00","product_image":"31zzQh687CL","keywords":"'electornic items'"},
+{"pro_id":"28","product_name":"syskaled lamp pink","product_price":"120.00","product_image":"214KjYBFQ1L._SL500_AC_SS350_","keywords":"'electornic items'"},
+{"pro_id":"29","product_name":"syskaled lamp flat","product_price":"300.00","product_image":"16603_1_1200px","keywords":"'electornic items'"},
+{"pro_id":"30","product_name":"Red avanger leg panty","product_price":"999.00","product_image":"avenue-l-leg-panty-_0442d9","keywords":"'Girls panties'"},
+{"pro_id":"31","product_name":"Avanger leg panty monkywash","product_price":"999.00","product_image":"avenue-l-leg-panty-_0442d91.jpg","keywords":"'Girls panties'"},
+{"pro_id":"32","product_name":"Avanger leg panty","product_price":"1000.00","product_image":"avenue-l-leg-panty-_0442d92","keywords":"'Girls panties'"},
+{"pro_id":"33","product_name":"Avanger leg panty plain white","product_price":"1200.00","product_image":"avenue-l-leg-panty-_0442d93","keywords":"'Girls panties'"},
+{"pro_id":"34","product_name":"Lenshin belt loop Fashion","product_price":"1400.00","product_image":"lenshin-belt-loop-plus-size-font-b-formal-b-font-font-b-pants-b-font-for","keywords":"'Girls panties'"},
+{"pro_id":"35","product_name":"gstove flat-09","product_price":"3499.00","product_image":"0002_gstove33","keywords":"'home applances'"},
+{"pro_id":"36","product_name":"prestige cooker+more","product_price":"7600.00","product_image":"111657-prestige-original-imaefhhhqdvhngmc","keywords":"'home applances'"},
+{"pro_id":"37","product_name":"kids powder blossom flavour","product_price":"150.00","product_image":"j&j_baby_powder_blossom1","keywords":"'kids powder'"},
+{"pro_id":"38","product_name":"kids powder blossom flavour","product_price":"148.00","product_image":"j&j_baby_powders","keywords":"'kids powder'"},
+{"pro_id":"39","product_name":"tow color top","product_price":"455.00","product_image":"girls_2color_tshirt_","keywords":"'girls tops'"},
+{"pro_id":"40","product_name":"Red hot top","product_price":"440.00","product_image":"images","keywords":"'girls tops'"},
+{"pro_id":"41","product_name":"spring summer top - new","product_price":"499.00","product_image":"Spring-Summer-New-2014-Women-Blouse-Ladies-Casual-Sleeveless-Solid-Color-Fashion-Chiffon-Shirt-Plus-Szie","keywords":"'girls tops'"}
+]
+}
+]
