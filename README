@@ -1,2 +1,2 @@
-#	simple dropdown list with XML object.
-#	'on dropdown' selection show data from db
+# simple dropdown list with XML object.
+# on dropdown list selection data is fetch from database.
